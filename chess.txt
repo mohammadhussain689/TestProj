@@ -1,2 +1,11 @@
 ->This is a new chess file
 ->This file contains info about chess game
+
+
+Chess Players
+=============
+1.Andand Viswanathan
+2.Arjun Erigaisi
+3.Nihal Sarin
+4.Gukesh D
+5.R Pragg
