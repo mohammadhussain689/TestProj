@@ -1,0 +1,2 @@
+->This is a new chess file
+->This file contains info about chess game
